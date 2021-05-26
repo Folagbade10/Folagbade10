@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Abdulbasit Adeniji 
+- 👀 I’m interested in software developement
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on project under python
+- 📫 You can email me on any python question at basitfola2000@gmail.com
